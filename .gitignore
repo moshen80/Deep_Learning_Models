@@ -1,0 +1,6 @@
+UNet/training.tif
+UNet/training_groundtruth.tif
+UNet/testing.tif
+UNet/testing_groundtruth.tif
+UNet/EM_UNET_Model_100epochs.hdf5
+Data/
